@@ -7,8 +7,9 @@ categories: website update
 
 {% highlight ruby %}
 def print_hi(name)
-  puts "Hi, #{name}"
+  puts "Hi, I'm #{name}"
 end
 print_hi('Nae')
-#=> prints 'Hi, Nae' to STDOUT.
+
+#=> prints 'Hi, I'm Nae' to STDOUT.
 {% endhighlight %}
