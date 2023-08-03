@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Me!"
 date:   2023-08-04 06:52:45 +1000
-categories: website update
+categories: blog
 ---
 
 {% highlight ruby %}
